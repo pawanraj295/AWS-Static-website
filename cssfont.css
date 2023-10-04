@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.background-img {
+    background-image: url("https://images.unsplash.com/photo-1548697143-6a9dc9d9d80f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBzY3JlZW58ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+    height: 100vh;
+    background-size: cover;
+    font-family: "bree serif";
+}
+
+.main_img {
+    height: 400px;
+    width: 500px;
+}
+
+.main-heading {
+    color: #F675A8;
+    margin: 10px;
+}
+
+.btn {
+    width: 136px;
+    margin: 8px;
+}
+
+.background-second {
+    background-image: url("https://images.unsplash.com/photo-1548697143-6a9dc9d9d80f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmxhY2slMjBzY3JlZW58ZW58MHx8MHx8fDA%3D&w=1000&q=80");
+    padding: 2px;
+}
+
+.title-page {
+    text-align: center;
+    font-family: "bree serif";
+    color: #F675A8;
+    padding: 8px;
+}
+
+.corsal-img {
+    margin: 8px;
+}
+
+.smart-phone {
+    border-radius: 8px;
+    margin: 25px;
+}
+
+.smart-phone-2 {
+    border-radius: 8px;
+    margin: 25px;
+}
+
+.smart-tv {
+    height: 400px;
+    width: 890px;
+    border-radius: 35px;
+    margin: 45px;
+}
+
+.img-brand {
+    height: 250PX;
+    width: 250px;
+    padding: 25px;
+}
+
+.logo-background {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin: 50px;
+}
+
+.title-prduct {
+    margin: 8px;
+    text-align: center;
+    font-family: "bree serif";
+    color: black;
+}
+
+.mobile-hight {
+    padding: 15px;
+    height: 250px;
+}
+
+.img-relme {
+    height: 150px;
+    width: 250px;
+    padding: 25px;
+}
+
+.iphone-price {
+    border-radius: 25px;
+    margin: 8px;
+    padding: 25px;
+}
+
+.tilte-color {
+    font-family: "bree serif";
+    padding: 5px;
+    color: #F675A8;
+}
+
+.btn {
+    font-family: "bree serif";
+}
